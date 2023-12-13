@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pancholi Devarshi</h1>
-<h3 align="center">A future Mobile Application Developer from India</h3>
+<h3 align="center">Mobile Application Developer from India</h3>
 
 - 🌱 I’m currently learning **Flutter, Cross platform**
 
